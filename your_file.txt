@@ -1,0 +1,10 @@
+Session: default_session
+Question: What is Self-Reflection
+Answer: Self-Reflection is a vital aspect that allows autonomous agents to improve iteratively by refining past action decisions and correcting previous mistakes. It plays a crucial role in real-world tasks where trial and error are inevitable.
+Feedback: 👍
+
+Session: default_session
+Question: What is Self-Reflection
+Answer: Self-Reflection is a vital aspect that allows autonomous agents to improve iteratively by refining past action decisions and correcting previous mistakes. It enables agents to think, reason, and learn from their past experiences, allowing them to adapt and improve their performance over time.
+Feedback: 👎
+
